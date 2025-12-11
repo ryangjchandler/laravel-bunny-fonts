@@ -3024,4 +3024,440 @@ enum FontFamily: string
     case ZillaSlab = 'zilla-slab';
     // https://fonts.bunny.net/family/zilla-slab-highlight
     case ZillaSlabHighlight = 'zilla-slab-highlight';
+    // https://fonts.bunny.net/family/adlam-display
+    case ADLaMDisplay = 'adlam-display';
+    // https://fonts.bunny.net/family/afacad
+    case Afacad = 'afacad';
+    // https://fonts.bunny.net/family/agbalumo
+    case Agbalumo = 'agbalumo';
+    // https://fonts.bunny.net/family/agdasima
+    case Agdasima = 'agdasima';
+    // https://fonts.bunny.net/family/akatab
+    case Akatab = 'akatab';
+    // https://fonts.bunny.net/family/annapurna-sil
+    case AnnapurnaSIL = 'annapurna-sil';
+    // https://fonts.bunny.net/family/anta
+    case Anta = 'anta';
+    // https://fonts.bunny.net/family/aoboshi-one
+    case AoboshiOne = 'aoboshi-one';
+    // https://fonts.bunny.net/family/ar-one-sans
+    case AROneSans = 'ar-one-sans';
+    // https://fonts.bunny.net/family/bacasime-antique
+    case BacasimeAntique = 'bacasime-antique';
+    // https://fonts.bunny.net/family/bagel-fat-one
+    case BagelFatOne = 'bagel-fat-one';
+    // https://fonts.bunny.net/family/belanosima
+    case Belanosima = 'belanosima';
+    // https://fonts.bunny.net/family/borel
+    case Borel = 'borel';
+    // https://fonts.bunny.net/family/briem-hand
+    case BriemHand = 'briem-hand';
+    // https://fonts.bunny.net/family/cactus-classical-serif
+    case CactusClassicalSerif = 'cactus-classical-serif';
+    // https://fonts.bunny.net/family/caprasimo
+    case Caprasimo = 'caprasimo';
+    // https://fonts.bunny.net/family/cherry-bomb-one
+    case CherryBombOne = 'cherry-bomb-one';
+    // https://fonts.bunny.net/family/chocolate-classical-sans
+    case ChocolateClassicalSans = 'chocolate-classical-sans';
+    // https://fonts.bunny.net/family/chokokutai
+    case Chokokutai = 'chokokutai';
+    // https://fonts.bunny.net/family/dai-banna-sil
+    case DaiBannaSIL = 'dai-banna-sil';
+    // https://fonts.bunny.net/family/danfo
+    case Danfo = 'danfo';
+    // https://fonts.bunny.net/family/diphylleia
+    case Diphylleia = 'diphylleia';
+    // https://fonts.bunny.net/family/freeman
+    case Freeman = 'freeman';
+    // https://fonts.bunny.net/family/gabarito
+    case Gabarito = 'gabarito';
+    // https://fonts.bunny.net/family/gasoek-one
+    case GasoekOne = 'gasoek-one';
+    // https://fonts.bunny.net/family/geologica
+    case Geologica = 'geologica';
+    // https://fonts.bunny.net/family/grandiflora-one
+    case GrandifloraOne = 'grandiflora-one';
+    // https://fonts.bunny.net/family/handjet
+    case Handjet = 'handjet';
+    // https://fonts.bunny.net/family/hedvig-letters-sans
+    case HedvigLettersSans = 'hedvig-letters-sans';
+    // https://fonts.bunny.net/family/hedvig-letters-serif
+    case HedvigLettersSerif = 'hedvig-letters-serif';
+    // https://fonts.bunny.net/family/honk
+    case Honk = 'honk';
+    // https://fonts.bunny.net/family/inclusive-sans
+    case InclusiveSans = 'inclusive-sans';
+    // https://fonts.bunny.net/family/instrument-sans
+    case InstrumentSans = 'instrument-sans';
+    // https://fonts.bunny.net/family/jacquard-12
+    case Jacquard12 = 'jacquard-12';
+    // https://fonts.bunny.net/family/jacquard-12-charted
+    case Jacquard12Charted = 'jacquard-12-charted';
+    // https://fonts.bunny.net/family/jacquard-24
+    case Jacquard24 = 'jacquard-24';
+    // https://fonts.bunny.net/family/jacquard-24-charted
+    case Jacquard24Charted = 'jacquard-24-charted';
+    // https://fonts.bunny.net/family/jacquarda-bastarda-9
+    case JacquardaBastarda9 = 'jacquarda-bastarda-9';
+    // https://fonts.bunny.net/family/jacquarda-bastarda-9-charted
+    case JacquardaBastarda9Charted = 'jacquarda-bastarda-9-charted';
+    // https://fonts.bunny.net/family/jaini
+    case Jaini = 'jaini';
+    // https://fonts.bunny.net/family/jaini-purva
+    case JainiPurva = 'jaini-purva';
+    // https://fonts.bunny.net/family/jaro
+    case Jaro = 'jaro';
+    // https://fonts.bunny.net/family/jersey-10
+    case Jersey10 = 'jersey-10';
+    // https://fonts.bunny.net/family/jersey-10-charted
+    case Jersey10Charted = 'jersey-10-charted';
+    // https://fonts.bunny.net/family/jersey-15
+    case Jersey15 = 'jersey-15';
+    // https://fonts.bunny.net/family/jersey-15-charted
+    case Jersey15Charted = 'jersey-15-charted';
+    // https://fonts.bunny.net/family/jersey-20
+    case Jersey20 = 'jersey-20';
+    // https://fonts.bunny.net/family/jersey-20-charted
+    case Jersey20Charted = 'jersey-20-charted';
+    // https://fonts.bunny.net/family/jersey-25
+    case Jersey25 = 'jersey-25';
+    // https://fonts.bunny.net/family/jersey-25-charted
+    case Jersey25Charted = 'jersey-25-charted';
+    // https://fonts.bunny.net/family/kablammo
+    case Kablammo = 'kablammo';
+    // https://fonts.bunny.net/family/kalnia
+    case Kalnia = 'kalnia';
+    // https://fonts.bunny.net/family/kay-pho-du
+    case KayPhoDu = 'kay-pho-du';
+    // https://fonts.bunny.net/family/kode-mono
+    case KodeMono = 'kode-mono';
+    // https://fonts.bunny.net/family/linefont
+    case Linefont = 'linefont';
+    // https://fonts.bunny.net/family/lisu-bosa
+    case LisuBosa = 'lisu-bosa';
+    // https://fonts.bunny.net/family/lugrasimo
+    case Lugrasimo = 'lugrasimo';
+    // https://fonts.bunny.net/family/lumanosimo
+    case Lumanosimo = 'lumanosimo';
+    // https://fonts.bunny.net/family/lunasima
+    case Lunasima = 'lunasima';
+    // https://fonts.bunny.net/family/lxgw-wenkai-mono-tc
+    case LXGWWenKaiMonoTC = 'lxgw-wenkai-mono-tc';
+    // https://fonts.bunny.net/family/lxgw-wenkai-tc
+    case LXGWWenKaiTC = 'lxgw-wenkai-tc';
+    // https://fonts.bunny.net/family/madimi-one
+    case MadimiOne = 'madimi-one';
+    // https://fonts.bunny.net/family/micro-5
+    case Micro5 = 'micro-5';
+    // https://fonts.bunny.net/family/micro-5-charted
+    case Micro5Charted = 'micro-5-charted';
+    // https://fonts.bunny.net/family/moirai-one
+    case MoiraiOne = 'moirai-one';
+    // https://fonts.bunny.net/family/monomaniac-one
+    case MonomaniacOne = 'monomaniac-one';
+    // https://fonts.bunny.net/family/mooli
+    case Mooli = 'mooli';
+    // https://fonts.bunny.net/family/namdhinggo
+    case Namdhinggo = 'namdhinggo';
+    // https://fonts.bunny.net/family/narnoor
+    case Narnoor = 'narnoor';
+    // https://fonts.bunny.net/family/noto-sans-chorasmian
+    case NotoSansChorasmian = 'noto-sans-chorasmian';
+    // https://fonts.bunny.net/family/noto-sans-cypro-minoan
+    case NotoSansCyproMinoan = 'noto-sans-cypro-minoan';
+    // https://fonts.bunny.net/family/noto-sans-kawi
+    case NotoSansKawi = 'noto-sans-kawi';
+    // https://fonts.bunny.net/family/noto-sans-nag-mundari
+    case NotoSansNagMundari = 'noto-sans-nag-mundari';
+    // https://fonts.bunny.net/family/noto-sans-nandinagari
+    case NotoSansNandinagari = 'noto-sans-nandinagari';
+    // https://fonts.bunny.net/family/noto-sans-nko-unjoined
+    case NotoSansNKoUnjoined = 'noto-sans-nko-unjoined';
+    // https://fonts.bunny.net/family/noto-sans-syriac-eastern
+    case NotoSansSyriacEastern = 'noto-sans-syriac-eastern';
+    // https://fonts.bunny.net/family/noto-sans-vithkuqi
+    case NotoSansVithkuqi = 'noto-sans-vithkuqi';
+    // https://fonts.bunny.net/family/noto-serif-khitan-small-script
+    case NotoSerifKhitanSmallScript = 'noto-serif-khitan-small-script';
+    // https://fonts.bunny.net/family/noto-serif-makasar
+    case NotoSerifMakasar = 'noto-serif-makasar';
+    // https://fonts.bunny.net/family/noto-serif-old-uyghur
+    case NotoSerifOldUyghur = 'noto-serif-old-uyghur';
+    // https://fonts.bunny.net/family/noto-serif-ottoman-siyaq
+    case NotoSerifOttomanSiyaq = 'noto-serif-ottoman-siyaq';
+    // https://fonts.bunny.net/family/noto-serif-vithkuqi
+    case NotoSerifVithkuqi = 'noto-serif-vithkuqi';
+    // https://fonts.bunny.net/family/noto-znamenny-musical-notation
+    case NotoZnamennyMusicalNotation = 'noto-znamenny-musical-notation';
+    // https://fonts.bunny.net/family/ojuju
+    case Ojuju = 'ojuju';
+    // https://fonts.bunny.net/family/onest
+    case Onest = 'onest';
+    // https://fonts.bunny.net/family/orbit
+    case Orbit = 'orbit';
+    // https://fonts.bunny.net/family/palette-mosaic
+    case PaletteMosaic = 'palette-mosaic';
+    // https://fonts.bunny.net/family/pixelify-sans
+    case PixelifySans = 'pixelify-sans';
+    // https://fonts.bunny.net/family/platypi
+    case Platypi = 'platypi';
+    // https://fonts.bunny.net/family/playfair
+    case Playfair = 'playfair';
+    // https://fonts.bunny.net/family/playpen-sans
+    case PlaypenSans = 'playpen-sans';
+    // https://fonts.bunny.net/family/playwrite-au-nsw
+    case PlaywriteAUNSW = 'playwrite-au-nsw';
+    // https://fonts.bunny.net/family/playwrite-au-qld
+    case PlaywriteAUQLD = 'playwrite-au-qld';
+    // https://fonts.bunny.net/family/playwrite-au-sa
+    case PlaywriteAUSA = 'playwrite-au-sa';
+    // https://fonts.bunny.net/family/playwrite-au-tas
+    case PlaywriteAUTAS = 'playwrite-au-tas';
+    // https://fonts.bunny.net/family/playwrite-au-vic
+    case PlaywriteAUVIC = 'playwrite-au-vic';
+    // https://fonts.bunny.net/family/playwrite-br
+    case PlaywriteBR = 'playwrite-br';
+    // https://fonts.bunny.net/family/playwrite-ca
+    case PlaywriteCA = 'playwrite-ca';
+    // https://fonts.bunny.net/family/playwrite-co
+    case PlaywriteCO = 'playwrite-co';
+    // https://fonts.bunny.net/family/playwrite-de-grund
+    case PlaywriteDEGrund = 'playwrite-de-grund';
+    // https://fonts.bunny.net/family/playwrite-de-la
+    case PlaywriteDELA = 'playwrite-de-la';
+    // https://fonts.bunny.net/family/playwrite-de-sas
+    case PlaywriteDESAS = 'playwrite-de-sas';
+    // https://fonts.bunny.net/family/playwrite-de-va
+    case PlaywriteDEVA = 'playwrite-de-va';
+    // https://fonts.bunny.net/family/playwrite-es
+    case PlaywriteES = 'playwrite-es';
+    // https://fonts.bunny.net/family/playwrite-es-deco
+    case PlaywriteESDeco = 'playwrite-es-deco';
+    // https://fonts.bunny.net/family/playwrite-fr-moderne
+    case PlaywriteFRModerne = 'playwrite-fr-moderne';
+    // https://fonts.bunny.net/family/playwrite-fr-trad
+    case PlaywriteFRTrad = 'playwrite-fr-trad';
+    // https://fonts.bunny.net/family/playwrite-gb-j
+    case PlaywriteGBJ = 'playwrite-gb-j';
+    // https://fonts.bunny.net/family/playwrite-gb-s
+    case PlaywriteGBS = 'playwrite-gb-s';
+    // https://fonts.bunny.net/family/playwrite-id
+    case PlaywriteID = 'playwrite-id';
+    // https://fonts.bunny.net/family/playwrite-ie
+    case PlaywriteIE = 'playwrite-ie';
+    // https://fonts.bunny.net/family/playwrite-in
+    case PlaywriteIN = 'playwrite-in';
+    // https://fonts.bunny.net/family/playwrite-is
+    case PlaywriteIS = 'playwrite-is';
+    // https://fonts.bunny.net/family/playwrite-it-moderna
+    case PlaywriteITModerna = 'playwrite-it-moderna';
+    // https://fonts.bunny.net/family/playwrite-it-trad
+    case PlaywriteITTrad = 'playwrite-it-trad';
+    // https://fonts.bunny.net/family/playwrite-mx
+    case PlaywriteMX = 'playwrite-mx';
+    // https://fonts.bunny.net/family/playwrite-ng-modern
+    case PlaywriteNGModern = 'playwrite-ng-modern';
+    // https://fonts.bunny.net/family/playwrite-nl
+    case PlaywriteNL = 'playwrite-nl';
+    // https://fonts.bunny.net/family/playwrite-no
+    case PlaywriteNO = 'playwrite-no';
+    // https://fonts.bunny.net/family/playwrite-nz
+    case PlaywriteNZ = 'playwrite-nz';
+    // https://fonts.bunny.net/family/playwrite-pl
+    case PlaywritePL = 'playwrite-pl';
+    // https://fonts.bunny.net/family/playwrite-pt
+    case PlaywritePT = 'playwrite-pt';
+    // https://fonts.bunny.net/family/playwrite-ro
+    case PlaywriteRO = 'playwrite-ro';
+    // https://fonts.bunny.net/family/playwrite-sk
+    case PlaywriteSK = 'playwrite-sk';
+    // https://fonts.bunny.net/family/playwrite-tz
+    case PlaywriteTZ = 'playwrite-tz';
+    // https://fonts.bunny.net/family/playwrite-us-modern
+    case PlaywriteUSModern = 'playwrite-us-modern';
+    // https://fonts.bunny.net/family/playwrite-us-trad
+    case PlaywriteUSTrad = 'playwrite-us-trad';
+    // https://fonts.bunny.net/family/playwrite-vn
+    case PlaywriteVN = 'playwrite-vn';
+    // https://fonts.bunny.net/family/playwrite-za
+    case PlaywriteZA = 'playwrite-za';
+    // https://fonts.bunny.net/family/poetsen-one
+    case PoetsenOne = 'poetsen-one';
+    // https://fonts.bunny.net/family/protest-guerrilla
+    case ProtestGuerrilla = 'protest-guerrilla';
+    // https://fonts.bunny.net/family/protest-revolution
+    case ProtestRevolution = 'protest-revolution';
+    // https://fonts.bunny.net/family/protest-riot
+    case ProtestRiot = 'protest-riot';
+    // https://fonts.bunny.net/family/protest-strike
+    case ProtestStrike = 'protest-strike';
+    // https://fonts.bunny.net/family/pushster
+    case Pushster = 'pushster';
+    // https://fonts.bunny.net/family/radio-canada-big
+    case RadioCanadaBig = 'radio-canada-big';
+    // https://fonts.bunny.net/family/reddit-mono
+    case RedditMono = 'reddit-mono';
+    // https://fonts.bunny.net/family/reddit-sans
+    case RedditSans = 'reddit-sans';
+    // https://fonts.bunny.net/family/reddit-sans-condensed
+    case RedditSansCondensed = 'reddit-sans-condensed';
+    // https://fonts.bunny.net/family/rem
+    case REM = 'rem';
+    // https://fonts.bunny.net/family/rethink-sans
+    case RethinkSans = 'rethink-sans';
+    // https://fonts.bunny.net/family/rock-3d
+    case Rock3D = 'rock-3d';
+    // https://fonts.bunny.net/family/rubik-broken-fax
+    case RubikBrokenFax = 'rubik-broken-fax';
+    // https://fonts.bunny.net/family/rubik-doodle-shadow
+    case RubikDoodleShadow = 'rubik-doodle-shadow';
+    // https://fonts.bunny.net/family/rubik-doodle-triangles
+    case RubikDoodleTriangles = 'rubik-doodle-triangles';
+    // https://fonts.bunny.net/family/rubik-glitch-pop
+    case RubikGlitchPop = 'rubik-glitch-pop';
+    // https://fonts.bunny.net/family/rubik-lines
+    case RubikLines = 'rubik-lines';
+    // https://fonts.bunny.net/family/rubik-maps
+    case RubikMaps = 'rubik-maps';
+    // https://fonts.bunny.net/family/rubik-scribble
+    case RubikScribble = 'rubik-scribble';
+    // https://fonts.bunny.net/family/ruwudu
+    case Ruwudu = 'ruwudu';
+    // https://fonts.bunny.net/family/sedan
+    case Sedan = 'sedan';
+    // https://fonts.bunny.net/family/sedan-sc
+    case SedanSC = 'sedan-sc';
+    // https://fonts.bunny.net/family/shizuru
+    case Shizuru = 'shizuru';
+    // https://fonts.bunny.net/family/sixtyfour
+    case Sixtyfour = 'sixtyfour';
+    // https://fonts.bunny.net/family/slackside-one
+    case SlacksideOne = 'slackside-one';
+    // https://fonts.bunny.net/family/sometype-mono
+    case SometypeMono = 'sometype-mono';
+    // https://fonts.bunny.net/family/tac-one
+    case TacOne = 'tac-one';
+    // https://fonts.bunny.net/family/teachers
+    case Teachers = 'teachers';
+    // https://fonts.bunny.net/family/tektur
+    case Tektur = 'tektur';
+    // https://fonts.bunny.net/family/tilt-neon
+    case TiltNeon = 'tilt-neon';
+    // https://fonts.bunny.net/family/tilt-prism
+    case TiltPrism = 'tilt-prism';
+    // https://fonts.bunny.net/family/tilt-warp
+    case TiltWarp = 'tilt-warp';
+    // https://fonts.bunny.net/family/tiny5
+    case Tiny5 = 'tiny5';
+    // https://fonts.bunny.net/family/tsukimi-rounded
+    case TsukimiRounded = 'tsukimi-rounded';
+    // https://fonts.bunny.net/family/ubuntu-sans
+    case UbuntuSans = 'ubuntu-sans';
+    // https://fonts.bunny.net/family/ubuntu-sans-mono
+    case UbuntuSansMono = 'ubuntu-sans-mono';
+    // https://fonts.bunny.net/family/victor-mono
+    case VictorMono = 'victor-mono';
+    // https://fonts.bunny.net/family/wavefont
+    case Wavefont = 'wavefont';
+    // https://fonts.bunny.net/family/wix-madefor-display
+    case WixMadeforDisplay = 'wix-madefor-display';
+    // https://fonts.bunny.net/family/wix-madefor-text
+    case WixMadeforText = 'wix-madefor-text';
+    // https://fonts.bunny.net/family/workbench
+    case Workbench = 'workbench';
+    // https://fonts.bunny.net/family/yarndings-12
+    case Yarndings12 = 'yarndings-12';
+    // https://fonts.bunny.net/family/yarndings-12-charted
+    case Yarndings12Charted = 'yarndings-12-charted';
+    // https://fonts.bunny.net/family/yarndings-20
+    case Yarndings20 = 'yarndings-20';
+    // https://fonts.bunny.net/family/yarndings-20-charted
+    case Yarndings20Charted = 'yarndings-20-charted';
+    // https://fonts.bunny.net/family/young-serif
+    case YoungSerif = 'young-serif';
+    // https://fonts.bunny.net/family/ysabeau-infant
+    case YsabeauInfant = 'ysabeau-infant';
+    // https://fonts.bunny.net/family/ysabeau-office
+    case YsabeauOffice = 'ysabeau-office';
+    // https://fonts.bunny.net/family/ysabeau-sc
+    case YsabeauSC = 'ysabeau-sc';
+    // https://fonts.bunny.net/family/yuji-hentaigana-akari
+    case YujiHentaiganaAkari = 'yuji-hentaigana-akari';
+    // https://fonts.bunny.net/family/yuji-hentaigana-akebono
+    case YujiHentaiganaAkebono = 'yuji-hentaigana-akebono';
+    // https://fonts.bunny.net/family/bricolage-grotesque
+    case BricolageGrotesque = 'bricolage-grotesque';
+    // https://fonts.bunny.net/family/anton-sc
+    case AntonSC = 'anton-sc';
+    // https://fonts.bunny.net/family/arsenal-sc
+    case ArsenalSC = 'arsenal-sc';
+    // https://fonts.bunny.net/family/baskervville-sc
+    case BaskervvilleSC = 'baskervville-sc';
+    // https://fonts.bunny.net/family/beiruti
+    case Beiruti = 'beiruti';
+    // https://fonts.bunny.net/family/bodoni-moda-sc
+    case BodoniModaSC = 'bodoni-moda-sc';
+    // https://fonts.bunny.net/family/bona-nova-sc
+    case BonaNovaSC = 'bona-nova-sc';
+    // https://fonts.bunny.net/family/fustat
+    case Fustat = 'fustat';
+    // https://fonts.bunny.net/family/ga-maamli
+    case GaMaamli = 'ga-maamli';
+    // https://fonts.bunny.net/family/wittgenstein
+    case Wittgenstein = 'wittgenstein';
+    // https://fonts.bunny.net/family/maname
+    case Maname = 'maname';
+    // https://fonts.bunny.net/family/playwrite-ar
+    case PlaywriteAR = 'playwrite-ar';
+    // https://fonts.bunny.net/family/playwrite-at
+    case PlaywriteAT = 'playwrite-at';
+    // https://fonts.bunny.net/family/playwrite-be-vlg
+    case PlaywriteBEVLG = 'playwrite-be-vlg';
+    // https://fonts.bunny.net/family/playwrite-be-wal
+    case PlaywriteBEWAL = 'playwrite-be-wal';
+    // https://fonts.bunny.net/family/playwrite-cl
+    case PlaywriteCL = 'playwrite-cl';
+    // https://fonts.bunny.net/family/playwrite-cu
+    case PlaywriteCU = 'playwrite-cu';
+    // https://fonts.bunny.net/family/playwrite-cz
+    case PlaywriteCZ = 'playwrite-cz';
+    // https://fonts.bunny.net/family/playwrite-dk-loopet
+    case PlaywriteDKLoopet = 'playwrite-dk-loopet';
+    // https://fonts.bunny.net/family/playwrite-dk-uloopet
+    case PlaywriteDKUloopet = 'playwrite-dk-uloopet';
+    // https://fonts.bunny.net/family/playwrite-hr
+    case PlaywriteHR = 'playwrite-hr';
+    // https://fonts.bunny.net/family/playwrite-hr-lijeva
+    case PlaywriteHRLijeva = 'playwrite-hr-lijeva';
+    // https://fonts.bunny.net/family/playwrite-hu
+    case PlaywriteHU = 'playwrite-hu';
+    // https://fonts.bunny.net/family/playwrite-pe
+    case PlaywritePE = 'playwrite-pe';
+    // https://fonts.bunny.net/family/edu-au-vic-wa-nt-hand
+    case EduAUVICWANTHand = 'edu-au-vic-wa-nt-hand';
+    // https://fonts.bunny.net/family/kalnia-glaze
+    case KalniaGlaze = 'kalnia-glaze';
+    // https://fonts.bunny.net/family/zain
+    case Zain = 'zain';
+    // https://fonts.bunny.net/family/sankofa-display
+    case SankofaDisplay = 'sankofa-display';
+    // https://fonts.bunny.net/family/bungee-tint
+    case BungeeTint = 'bungee-tint';
+    // https://fonts.bunny.net/family/matemasie
+    case Matemasie = 'matemasie';
+    // https://fonts.bunny.net/family/moderustic
+    case Moderustic = 'moderustic';
+    // https://fonts.bunny.net/family/new-amsterdam
+    case NewAmsterdam = 'new-amsterdam';
+    // https://fonts.bunny.net/family/suse
+    case SUSE = 'suse';
+    // https://fonts.bunny.net/family/edu-au-vic-wa-nt-dots
+    case EduAUVICWANTDots = 'edu-au-vic-wa-nt-dots';
+    // https://fonts.bunny.net/family/edu-au-vic-wa-nt-guides
+    case EduAUVICWANTGuides = 'edu-au-vic-wa-nt-guides';
+    // https://fonts.bunny.net/family/afacad-flux
+    case AfacadFlux = 'afacad-flux';
+    // https://fonts.bunny.net/family/sixtyfour-convergence
+    case SixtyfourConvergence = 'sixtyfour-convergence';
 }
