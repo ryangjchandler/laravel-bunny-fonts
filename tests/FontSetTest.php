@@ -4,7 +4,7 @@ use RyanChandler\BunnyFonts\FontFamily;
 use RyanChandler\BunnyFonts\FontSet;
 
 it('can render a set of html tags for the given fonts', function () {
-    $set = new FontSet();
+    $set = new FontSet;
     $set->add(FontFamily::Inter);
     $set->add(FontFamily::FiraCode, [500, 600]);
 

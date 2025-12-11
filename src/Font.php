@@ -7,8 +7,7 @@ class Font
     public function __construct(
         public FontFamily $font,
         public array $weights = [400],
-    ) {
-    }
+    ) {}
 
     public function toBunnyString(): string
     {
