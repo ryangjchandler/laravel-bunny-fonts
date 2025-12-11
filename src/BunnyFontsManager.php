@@ -8,7 +8,7 @@ class BunnyFontsManager
 
     public function __construct()
     {
-        $this->sets['default'] = new FontSet();
+        $this->sets['default'] = new FontSet;
     }
 
     public function default(): FontSet
@@ -23,7 +23,7 @@ class BunnyFontsManager
 
     public function set(string $name): FontSet
     {
-        return $this->sets[$name] ??= new FontSet();
+        return $this->sets[$name] ??= new FontSet;
     }
 
     /**
