@@ -3,6 +3,7 @@
 namespace RyanChandler\BunnyFonts\Facades;
 
 use Illuminate\Support\Facades\Facade;
+use RyanChandler\BunnyFonts\BunnyFontsManager;
 
 /**
  * @method static \RyanChandler\BunnyFonts\FontSet default()
@@ -16,6 +17,6 @@ class BunnyFonts extends Facade
 {
     protected static function getFacadeAccessor(): string
     {
-        return \RyanChandler\BunnyFonts\BunnyFontsManager::class;
+        return BunnyFontsManager::class;
     }
 }
